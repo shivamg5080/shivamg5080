@@ -19,10 +19,15 @@
 
 <!-- Points -->
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=shivamg5080&color=blueviolet)
 + Open for new opportunities
 + Contact - [shivamg5080@gmail.com](mailto:shivamg5080@gmail.com)
+  
+## 💼 Work Experience
 
+### - Software development intern @Algozenith
+### - Technical content writer @Geeks for Geeks
+### - Research Intern @ IIIT Bhopal
 
 <br>
 
