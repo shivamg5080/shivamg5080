@@ -46,7 +46,7 @@
 <div>
 	<!-- Github Stats -->
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=satyamrs00&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
+		<img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=shivamg5080&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
 	</a>
 	<!-- Top langs -->
 	<a href="https://github.com/anuraghazra/github-readme-stats">
