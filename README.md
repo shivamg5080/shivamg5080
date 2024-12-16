@@ -37,7 +37,7 @@
 
 </div>
 <!-- [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
-<!-- ![](https://komarev.com/ghpvc/?username=satyamrs00&color=259076&style=flat) -->
+<!-- ![](https://komarev.com/ghpvc/?username=shivamg5080&color=259076&style=flat) -->
 
 
 <hr>
@@ -50,14 +50,14 @@
 	</a>
 	<!-- Top langs -->
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamrs00&layout=compact&theme=gotham&hide_border=true" />
+		<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamg5080&layout=compact&theme=gotham&hide_border=true" />
 	</a>
 </div>
 
 <div>
 	<!-- Github Streak -->
 	<a href="https://git.io/streak-stats">
-		<img align="center" width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrs00&theme=gotham&hide_border=true"/>
+		<img align="center" width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamg5080&theme=gotham&hide_border=true"/>
 	</a>
 	<!-- Spotify -->
 	<a href="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&redirect=true">
@@ -68,7 +68,7 @@
 <!-- Activity Graph -->
 <div>
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-		<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=satyamrs00&theme=gotham&hide_border=true"/>
+		<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamg5080&theme=gotham&hide_border=true"/>
 	</a>
 </div>
 
